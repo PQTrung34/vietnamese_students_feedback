@@ -231,26 +231,8 @@ chăng chắc
 chăng nữa
 chơi
 chơi họ
-chưa
-chưa bao giờ
-chưa chắc
-chưa có
-chưa cần
-chưa dùng
-chưa dễ
-chưa kể
-chưa tính
-chưa từng
 chầm chập
 chậc
-chắc
-chắc chắn
-chắc dạ
-chắc hẳn
-chắc lòng
-chắc người
-chắc vào
-chắc ăn
 chẳng lẽ
 chẳng những
 chẳng nữa
@@ -525,7 +507,6 @@ gồm
 hay
 hay biết
 hay hay
-hay không
 hay là
 hay làm
 hay nhỉ
@@ -566,14 +547,12 @@ hỏi xin
 hỗ trợ
 khi
 khi khác
-khi không
 khi nào
 khi nên
 khi trước
 khiến
 khoảng
 khoảng cách
-khoảng không
 khá
 khá tốt
 khác
@@ -729,7 +708,6 @@ mang về
 muốn
 mà
 mà cả
-mà không
 mà lại
 mà thôi
 mà vẫn
@@ -787,7 +765,6 @@ ngay từ
 nghe
 nghe chừng
 nghe hiểu
-nghe không
 nghe lại
 nghe nhìn
 nghe như
@@ -1042,21 +1019,6 @@ phót
 phù hợp
 phăn phắt
 phương chi
-phải
-phải biết
-phải chi
-phải chăng
-phải cách
-phải cái
-phải giờ
-phải khi
-phải không
-phải lại
-phải lời
-phải người
-phải như
-phải rồi
-phải tay
 phần
 phần lớn
 phần nhiều
@@ -1759,9 +1721,6 @@ yêu cầu
 đây này
 đây rồi
 đây đó
-đã
-đã hay
-đã không
 đã là
 đã lâu
 đã thế
@@ -1839,7 +1798,6 @@ yêu cầu
 để
 để cho
 để giống
-để không
 để lòng
 để lại
 để mà
