@@ -276,12 +276,6 @@ chọn
 chọn bên
 chọn ra
 chốc chốc
-chớ
-chớ chi
-chớ gì
-chớ không
-chớ kể
-chớ như
 chợt
 chợt nghe
 chợt nhìn
@@ -290,8 +284,6 @@ chứ
 chứ ai
 chứ còn
 chứ gì
-chứ không
-chứ không phải
 chứ lại
 chứ lị
 chứ như
@@ -337,8 +329,6 @@ còn về
 có
 có ai
 có chuyện
-có chăng
-có chăng là
 có chứ
 có cơ
 có dễ
@@ -605,35 +595,6 @@ khó nghĩ
 khó nói
 khó thấy
 khó tránh
-không
-không ai
-không bao giờ
-không bao lâu
-không biết
-không bán
-không chỉ
-không còn
-không có
-không có gì
-không cùng
-không cần
-không cứ
-không dùng
-không gì
-không hay
-không khỏi
-không kể
-không ngoài
-không nhận
-không những
-không phải
-không phải không
-không thể
-không tính
-không điều kiện
-không được
-không đầy
-không để
 khẳng định
 khỏi
 khỏi nói
@@ -924,7 +885,6 @@ nhón nhén
 như
 như ai
 như chơi
-như không
 như là
 như nhau
 như quả
@@ -1051,7 +1011,6 @@ nặng về
 nếu
 nếu có
 nếu cần
-nếu không
 nếu mà
 nếu như
 nếu thế
